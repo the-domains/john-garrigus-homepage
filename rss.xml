@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[John Garrigus Homepage]]></title>
+        <description><![CDATA[John Garrigus Homepage]]></description>
+        <link>https://thegrid.ai/john-garrigus-homepage/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 21:53:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/john-garrigus-homepage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>John Garrigus </p>]]></description>
+            <link>https://thegrid.ai/john-garrigus-homepage/d4691ec2-c37b-444d-a60f-b848661d91b6/index.html</link>
+            <guid isPermaLink="false">d4691ec2-c37b-444d-a60f-b848661d91b6</guid>
+            <pubDate>Mon, 28 Dec 2015 21:53:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Classes]]></title>
+            <description><![CDATA[<article><h1>Classes</h1><p>null</p></article>]]></description>
+            <link>https://thegrid.ai/john-garrigus-homepage/classes/index.html</link>
+            <guid isPermaLink="false">c745fb6c-5166-4efc-8681-ccb2ad2ddfb5</guid>
+            <pubDate>Mon, 28 Dec 2015 21:53:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
