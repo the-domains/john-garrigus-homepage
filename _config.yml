@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5420249616727233
+  lightness: 0.6199713053647429
+  rhythmicContrast: 0.34433682868257165
+  saturation: 0.7642637649551034
+cta: {}
+layout_spectrum: 0.824324
+name: John Garrigus Homepage
+opengraph: {}
+purpose: []
+typography_spectrum: 0.265765
