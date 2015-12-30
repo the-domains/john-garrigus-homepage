@@ -1,6 +1,6 @@
 name: John Garrigus Homepage
 favicon: null
-layout_spectrum: 0.35369
+layout_spectrum: 0.23705
 typography_spectrum: 0.265765
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#376893'
+    - '#8398ac'
+    - '#a7c6db'
+    - '#4c4d45'
+    - '#e5f8fc'
   brandStrength: 0.1875
   lightness: 0.6199713053647429
   saturation: 0.7642637649551034
