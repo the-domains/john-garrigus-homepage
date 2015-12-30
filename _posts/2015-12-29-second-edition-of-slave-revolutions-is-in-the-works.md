@@ -1,15 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "We're excited about new documents that will appear in the second edition, including key selections from the Macandal poison conspiracy. "
-datePublished: '2015-12-30T03:44:12.356Z'
-dateModified: '2015-12-30T03:44:03.184Z'
+datePublished: '2015-12-30T16:24:21.916Z'
+dateModified: '2015-12-30T16:24:15.575Z'
 author: []
-title: Second edition is in the works
+title: Our second edition is in the works
 sourcePath: _posts/2015-12-29-second-edition-of-slave-revolutions-is-in-the-works.md
 published: true
 authors: []
