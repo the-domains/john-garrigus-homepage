@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.google.com/search?q=dubois+garrigus&rlz=1CATAAB_enUS653US656&espv=2&biw=1066&bih=450&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjuo4jUzoHKAhVQ_WMKHTPEDNQQ_AUICCgD&dpr=0.9#q=dubois+garrigus&tbs=isz:m&tbm=isch'
 inLanguage: null
 starred: false
 keywords: []
 description: "We're excited about new documents that will appear in the second edition, including key selections from the Macandal poison conspiracy. "
-datePublished: '2015-12-29T17:46:29.599Z'
-dateModified: '2015-12-29T17:45:30.061Z'
+datePublished: '2015-12-30T02:26:39.510Z'
+dateModified: '2015-12-30T02:25:28.350Z'
 author: []
-title: Second edition of Slave Revolutions is in the works
+title: Second edition is in the works
+sourcePath: _posts/2015-12-29-second-edition-of-slave-revolutions-is-in-the-works.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-second-edition-of-slave-revolutions-is-in-the-works.md
-published: true
+url: second-edition-is-in-the-works/index.html
 _context: 'http://schema.org'
 _type: Article
 
