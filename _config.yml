@@ -1,19 +1,4 @@
-name: John Garrigus Homepage
-favicon: null
-layout_spectrum: 0.00426
-typography_spectrum: 0.265765
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#376893'
@@ -22,7 +7,12 @@ color:
     - '#4c4d45'
     - '#e5f8fc'
   brandStrength: 0.1875
-  lightness: 0.6199713053647429
-  saturation: 0.7642637649551034
-  rhythmicContrast: 0.34433682868257165
+  lightness: 0.619971
+  rhythmicContrast: 0.344336
+  saturation: 0.570945
+cta: {}
+layout_spectrum: 0.00426
+name: John Garrigus Homepage
+opengraph: {}
 purpose: []
+typography_spectrum: 0.979729
