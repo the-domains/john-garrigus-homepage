@@ -4,8 +4,15 @@
         <description><![CDATA[John Garrigus Homepage]]></description>
         <link>https://thegrid.ai/john-garrigus-homepage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 15:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 15:22:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/john-garrigus-homepage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://wweb.uta.edu/faculty/garrigus/Bedford_thumb.jpg"></article>]]></description>
+            <link>http://wweb.uta.edu/faculty/garrigus/Bedford_thumb.jpg</link>
+            <guid isPermaLink="false">00af0d7b-dd06-4414-b0b9-2ada73ce9930</guid>
+            <pubDate>Wed, 27 Jan 2016 15:22:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HIST5341: Approaches to World History, Spring 2016]]></title>
             <description><![CDATA[<article><h1>HIST5341: Approaches to World History, Spring 2016</h1><p>We're combining new and classic historiography with an emphasis on basic GIS skills. Should be fun!</p></article>]]></description>
